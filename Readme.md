@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate fullstack developer from Nepal</h3>
+<h3 align="center">A passionate fullstack web developer from Nepal</h3>
 
 - 📫 How to reach me **asespandey2@gmail.com**
 
